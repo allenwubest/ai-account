@@ -1,0 +1,6 @@
+{
+  "name": "AI Bookkeeping Privacy Policy",
+  "description": "Privacy policy page for individual users of the AI Bookkeeping app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
